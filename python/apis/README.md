@@ -2,7 +2,7 @@
 
 An API (application programming interface) is a setup to allow two pieces of software to communicate. 
 
-![/images/api-basic.png](/image/api-basic.png)
+![images/api-basic.png](images/api-basic.png)
 
 In the above, crude example, the API is an interface for these pieces of software to communicate with one another. This communication between software is typically one direction. This means one software system will do all of the talking, and the other software system will request data. You could say server (backend) and client (frontend).
 
